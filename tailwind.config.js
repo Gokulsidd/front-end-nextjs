@@ -11,6 +11,7 @@ module.exports = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+          'login-backCover' : "url('https://aid-frontend.prod.atl-paas.net/atlassian-id/front-end/5.0.512/wac.92a80da2.svg')",
       },
     },
   },
